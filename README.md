@@ -1,4 +1,4 @@
-# Player-Performance-presiction
+# Player-Performance-prediction
 
 Introduction: In this Model, we have used multinomial and binary logistic regression. Logistic regression is the appropriate regression analysis to conduct when the dependent variable(Y) is binary or discreet.  Like all regression analyses, logistic regression is a predictive analysis.  Logistic regression is used to describe data and to explain the relationship between one dependent binary variable and one or more nominal, ordinal, interval or ratio-level independent variables(Xi). We have used multivariable logistic regression which is basically two or more independent variables (Xi) are taken into consideration simultaneously to predict the value of a dependent variable (Y) for each subject.
 
